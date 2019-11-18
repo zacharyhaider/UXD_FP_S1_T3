@@ -1,2 +1,18 @@
 # UXD_FP_S1_T3
-This is our final project 
+This is our final project for User Experience Design.
+
+## Project Title
+Online College Food Ordering System
+
+## Team Name
+Fab Five
+
+## Team Members
+* Zachary Haider
+* Vijay Kumar Karanam
+* Bhuvanesh Nakka
+* Pranathi Mothe
+* Srikar Patle
+
+
+
