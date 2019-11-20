@@ -1,0 +1,23 @@
+{
+  "name": "uxd_fp_s1_t3",
+  "version": "1.0.0",
+  "description": "This is our final project for User Experience Design.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyhaider/UXD_FP_S1_T3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharyhaider/UXD_FP_S1_T3/issues"
+  },
+  "homepage": "https://github.com/zacharyhaider/UXD_FP_S1_T3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
